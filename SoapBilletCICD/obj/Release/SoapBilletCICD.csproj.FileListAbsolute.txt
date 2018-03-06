@@ -1,0 +1,9 @@
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\bin\SoapBilletCICD.dll.config
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\bin\SoapBilletCICD.dll
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\bin\SoapBilletCICD.pdb
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\bin\BilletLibrary.dll
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\bin\BilletLibrary.xml
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\obj\Release\SoapBilletCICD.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\obj\Release\SoapBilletCICD.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\obj\Release\SoapBilletCICD.dll
+C:\Users\Dave\Documents\GitHub\wcf-student-AsianDave94\soapenablebilletsystem-AsianDave94\SoapBilletCICD\SoapBilletCICD\obj\Release\SoapBilletCICD.pdb
